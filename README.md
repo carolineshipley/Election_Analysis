@@ -32,8 +32,4 @@ The purpose of this project is to audit the election results of the local congre
 ![Terminal Output from Analysis](https://github.com/carolineshipley/Election_Analysis/blob/main/Resources/Election%20Results.PNG)
 
 ## Summary
-### Advantages and Disadvantages of Refactoring Code
-
-### Advantages and Disadvantages of Original and Refactored VBA script
-#### Stock Analysis for 2017 on Refactored Code
-#### Stock Analysis for 2018 on Refactored Code
+This script can easily be modified to fit other types of elections such as federal congressional election changing the counties to states, or drill down to different data such as geographic information of votes or even demographics.
