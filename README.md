@@ -29,7 +29,7 @@ The purpose of this project is to audit the election results of the local congre
   - 272,892 votes
   - 73.8% of votes
 
-![Terminal Output from Analysis](link)
+![Terminal Output from Analysis](https://github.com/carolineshipley/Election_Analysis/blob/main/Resources/Election%20Results.PNG)
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
